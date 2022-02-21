@@ -290,11 +290,11 @@ h2.main-heading{
   
 }
 hr{
-  margin-top: 0;
-  margin-bottom: 0;
+  margin-top: 0px;
+  margin-bottom: 0px;
   border: 1px solid #ccc;
   
-  border-bottom: 0;
+  border-bottom: 0px;
 }
 .feature-section h3{
   text-transform: capitalize;
